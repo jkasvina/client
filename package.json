@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "main": "src/index.js",
-  "proxy":"https://jkasvina.github.io/client/",
+  "homepage": "https://jkasvina.github.io/client",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
